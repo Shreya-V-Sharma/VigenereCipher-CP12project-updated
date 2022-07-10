@@ -1,3 +1,6 @@
+//Computer programming 12 project
+//Teachers: Mr.Bragg and Dr.Siegel(Dalhousie University)
+//Team leader: Shreya Sharma
 package myPackage;
 
 import java.util.Scanner;
@@ -236,7 +239,7 @@ public class VigenereCipher
         return normalCase;
     }
 
-    //Work cited
+//Work cited
 //https://www.geeksforgeeks.org/vigenere-cipher/ - to aid in writing the code
 //https://cryptii.com/pipes/vigenere-cipher - to check if the output is correct
 }
